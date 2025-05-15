@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Jar File">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/Jar File/bytes-1.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/Jar File/bcrypt-0.4.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/Jar File/flatlaf-3.5.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/Jar File/javax.mail.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/Jar File/javax.activation-1.2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/Jar File/sendgrid-java.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

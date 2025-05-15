@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Bookworm_Collection2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/build/classes/Icons/Bookworm_Collection.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

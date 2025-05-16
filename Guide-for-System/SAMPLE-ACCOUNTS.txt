@@ -1,0 +1,9 @@
+CUSTOMER:
+Username: florence
+Password: florence123
+
+ADMIN:
+Username: jeremy
+Password: jeremy123
+
+UID:Q1W2E3R4T5Y678Z
